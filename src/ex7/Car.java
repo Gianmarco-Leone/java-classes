@@ -1,4 +1,4 @@
-package exercise7;
+package ex7;
 
 import java.time.Year;
 
